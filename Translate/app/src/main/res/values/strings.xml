@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Переводчик</string>
+    <string-array name="languages">
+        <item>en (Английский)</item>
+        <item>ru (Русский)</item>
+        <item>fr (Французский)</item>
+        <item>uk (Украинский)</item>
+        <item>de (Немецкий)</item>
+        <item>ja (Японский)</item>
+        <item>zh (Китайский)</item>
+        <item>be (Белорусский)</item>
+        <item>he (Иврит)</item>
+        <item>uz (Узбекский)</item>
+        <item>ar (Арабский)</item>
+    </string-array>
+</resources>
